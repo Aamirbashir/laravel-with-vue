@@ -1,5 +1,6 @@
 Download zip file
 Run wamp or xamp if intalled
+import database laravelvue
 copy file to local folder www/htdocs
 run following command
 1.composer install

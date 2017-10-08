@@ -50684,7 +50684,7 @@ var render = function() {
   return _c("div", { staticClass: "row" }, [
     _c("div", { staticClass: "col-md-8 col-md-offset-2" }, [
       _c("div", { staticClass: "panel panel-default" }, [
-        _c("div", { staticClass: "panel-heading" }, [_vm._v("User Data")]),
+        _c("div", { staticClass: "panel-heading" }, [_vm._v("Add New Person")]),
         _vm._v(" "),
         _c("div", { staticClass: "panel-body" }, [
           _c(
